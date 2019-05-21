@@ -1,0 +1,12 @@
+C:\Projetos\CalendarioOP\API2\Exceptions\bin\Debug\Exceptions.dll
+C:\Projetos\CalendarioOP\API2\Exceptions\bin\Debug\Exceptions.pdb
+C:\Projetos\CalendarioOP\API2\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Projetos\CalendarioOP\API2\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\CalendarioOP\API2\Exceptions\obj\Debug\Exceptions.dll
+C:\Projetos\CalendarioOP\API2\Exceptions\obj\Debug\Exceptions.pdb
+C:\Projetos\RROv2\API2\Exceptions\bin\Debug\Exceptions.dll
+C:\Projetos\RROv2\API2\Exceptions\bin\Debug\Exceptions.pdb
+C:\Projetos\RROv2\API2\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Projetos\RROv2\API2\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\RROv2\API2\Exceptions\obj\Debug\Exceptions.dll
+C:\Projetos\RROv2\API2\Exceptions\obj\Debug\Exceptions.pdb
