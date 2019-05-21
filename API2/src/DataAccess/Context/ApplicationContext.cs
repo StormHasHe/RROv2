@@ -8,7 +8,7 @@ namespace DataAccess.Context
     public class ApplicationContext : DbContext, IDisposable
     {
         public ApplicationContext()
-            : base("CalendarioOperacaoConn")
+            : base("RadioRockOnline")
         {
             Database.SetInitializer<ApplicationContext>(null);
         }

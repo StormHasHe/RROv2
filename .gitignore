@@ -9,6 +9,11 @@
 *.userosscache
 *.sln.docstates
 
+# Visual Studio Crap
+*.dll
+*.pdb
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -274,3 +279,15 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/
+
+API2/src/DataAccess/bin/Debug/
+
+API2/src/DataAccess/obj/Debug/
+
+API2/src/IoC/bin/Debug/
+
+API2/src/IoC/obj/Debug/
+
+*.cache
+
+API2/src/WebApi/bin/
